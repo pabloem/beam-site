@@ -146,4 +146,10 @@ members:
     organization: PayPal
     roles: committer
     time_zone: "+2"
+  - name: Pablo Estrada
+    apache_id: pabloem
+    email: pabloem [at] apache [dot] org
+    organization: Google
+    roles: committer
+    time_zone: "-8"
 ---
